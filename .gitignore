@@ -9,6 +9,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+deliveroo-clone-yt/
+.vscode/
 
 # macOS
 .DS_Store
